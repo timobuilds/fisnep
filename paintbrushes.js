@@ -140,6 +140,7 @@ function hatching() {
   }
 }
 
+
 function sprayPaint() {
 	// set the brush style
   strokeWeight(brushSize * 0.1)
